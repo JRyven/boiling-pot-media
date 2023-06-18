@@ -4802,8 +4802,8 @@ input[type=submit].gform_button:hover {
 @charset "UTF-8";
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Black.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Black.ttf) format("truetype");
+    src: url(fonts/Lato-Black.ttf);
+    src: url(fonts/Lato-Black.ttf) format("truetype");
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -4811,8 +4811,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-BlackItalic.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-BlackItalic.ttf) format("truetype");
+    src: url(fonts/Lato-BlackItalic.ttf);
+    src: url(fonts/Lato-BlackItalic.ttf) format("truetype");
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -4820,8 +4820,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Bold.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Bold.ttf) format("truetype");
+    src: url(fonts/Lato-Bold.ttf);
+    src: url(fonts/Lato-Bold.ttf) format("truetype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -4829,8 +4829,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-BoldItalic.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-BoldItalic.ttf) format("truetype");
+    src: url(fonts/Lato-BoldItalic.ttf);
+    src: url(fonts/Lato-BoldItalic.ttf) format("truetype");
     font-weight: 700;
     font-style: italic;
     font-display: swap;
@@ -4838,8 +4838,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Italic.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Italic.ttf) format("truetype");
+    src: url(fonts/Lato-Italic.ttf);
+    src: url(fonts/Lato-Italic.ttf) format("truetype");
     font-weight: 400;
     font-style: italic;
     font-display: swap;
@@ -4847,8 +4847,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Light.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Light.ttf) format("truetype");
+    src: url(fonts/Lato-Light.ttf);
+    src: url(fonts/Lato-Light.ttf) format("truetype");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -4856,8 +4856,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-LightItalic.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-LightItalic.ttf) format("truetype");
+    src: url(fonts/Lato-LightItalic.ttf);
+    src: url(fonts/Lato-LightItalic.ttf) format("truetype");
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -4865,8 +4865,8 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Regular.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Regular.ttf) format("truetype");
+    src: url(fonts/Lato-Regular.ttf);
+    src: url(fonts/Lato-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -4874,14 +4874,14 @@ input[type=submit].gform_button:hover {
 
 @font-face {
     font-family: lato;
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Thin.ttf);
-    src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-Thin.ttf) format("truetype");
+    src: url(fonts/Lato-Thin.ttf);
+    src: url(fonts/Lato-Thin.ttf) format("truetype");
     font-weight: 100;
     font-style: italic;
     @font-face {
         font-family: lato;
-        src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-ThinItalic.ttf);
-        src: url(https://web.archive.org/web/20220513171339im_/https://www.boilingpotmedia.com/wp-content/themes/bpm-theme/bpm-styles//wp-content/themes/bpm-theme/fonts/Lato-ThinItalic.ttf) format("truetype");
+        src: url(fonts/Lato-ThinItalic.ttf);
+        src: url(fonts/Lato-ThinItalic.ttf) format("truetype");
         font-weight: 100;
         font-style: normal;
         font-display: swap;
